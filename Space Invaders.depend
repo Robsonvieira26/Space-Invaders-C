@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1560809246 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.0\space invaders\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1559606102 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.0\space invaders\soil.h
+
+1560890966 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.5\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1559606102 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.5\soil.h
+
+1560903555 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.51\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1559606102 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.51\soil.h
+
+1561131977 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.52\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1559606102 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.52\soil.h
+
+1561151678 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.54\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1559606102 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.54\soil.h
+
+1561466895 source:c:\users\graduacao\downloads\space invaders v3.54\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1561464764 c:\users\graduacao\downloads\space invaders v3.54\soil.h
+
+1561728915 source:c:\users\graduacao\downloads\space invaders v3.6 -fazer menu\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1561723062 c:\users\graduacao\downloads\space invaders v3.6 -fazer menu\soil.h
+
+1561860187 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.6\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1561723062 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.6\soil.h
+
+1561908222 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.7\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1561723062 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\space invaders v3.7\soil.h
+
+1561942326 source:c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\grupo alr\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1561723062 c:\users\robso\onedrive\ufu\1° periodo\pp\trabalho pp\codigos editados\grupo alr\soil.h
+
